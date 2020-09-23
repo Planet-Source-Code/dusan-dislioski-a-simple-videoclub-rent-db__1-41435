@@ -1,0 +1,2 @@
+There is stil lot to be done here, but the core of the program is finished.
+The program needs some tests to check if the entered data is correct
